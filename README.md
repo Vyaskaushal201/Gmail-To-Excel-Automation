@@ -1,7 +1,6 @@
 # Gmail to Excel Data Automation
 
-This project demonstrates how to extract email data from Gmail using 
-Google Apps Script and connect it to Excel using Power Query.
+This project demonstrates how to extract email data from Gmail using Google Apps Script and connect it to Excel using Power Query.
 
 ## Tools Used
 - Google Apps Script
@@ -24,7 +23,7 @@ Data Transformation
 Excel Table
 
 ## Features
-- Automatically fetches Gmail email data
+- Automatically fetches Gmail data
 - Converts email data into JSON
 - Connects Excel to Gmail via Web API
 - Enables automatic data refresh
