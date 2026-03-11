@@ -32,7 +32,7 @@ Excel Table
 ## Project Screenshots
 
 ### Power Query Editor
-<img src="" alt="Image Description" width="600">
+<img src="https://github.com/Vyaskaushal201/Gmail-To-Excel-Automation/blob/e87784d210005aea2a88de8fc343e31020e2bc0e/PowerQuery_Transformation_Steps.png" alt="Image Description" width="600">
 
 ### Final Output
 ![Excel Output](screenshots/final_output.png)
