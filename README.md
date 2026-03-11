@@ -11,15 +11,15 @@ This project demonstrates how to extract email data from Gmail using Google Apps
 ## Workflow
 
 Gmail Inbox
-   ↓
+   |
 Google Apps Script
-   ↓
+   |
 Web API (JSON)
-   ↓
+   |
 Excel Power Query
-   ↓
+   |
 Data Transformation
-   ↓
+   |
 Excel Table
 
 ## Features
